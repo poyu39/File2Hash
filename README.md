@@ -1,5 +1,6 @@
+檔案sha1-hash生成器Cancel changes
+
 #2022/7/25 made by poyu
-檔案sha1-hash生成器
 
 使用說明:
 1. 將需要生成Hash的檔案和.py放在同資料夾
