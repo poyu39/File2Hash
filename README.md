@@ -1,4 +1,4 @@
-檔案sha1-hash生成器Cancel changes
+檔案sha1-hash生成器
 
 #2022/7/25 made by poyu
 
